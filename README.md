@@ -31,14 +31,11 @@
     <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
 </p>
 
-<h2>프로젝트</h2>
+<h2>Project</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - 카카오톡 카피코딩</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - 고객센터 챗봇</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3 - 유튜브 플레이어</a></li>
+    <li>Updata Soon..</li>
 </ul>
 
 <p>
-    더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
-    <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.
+    You can see more at my <a href="https://github.com/aj0hnd">GitHub</a>.
 </p>
