@@ -18,16 +18,16 @@
 <h3>💻Project💻</h3>
 I'm organizing my github repository.. Coming Soon..
 <ul style="list-style: none; padding: 0;">
-    1. Naver-KU dictionary Service Process
-    2. Fairy Tale - based Dictionary Web Service for children using Gen AI, Stable Diffusion API.
-    3. Ungsung Classifier
+    <ul>1. Naver-KU dictionary Service Process</ul>
+    <ul>2. Fairy Tale - based Dictionary Web Service for children using Gen AI, Stable Diffusion API.</ul>
+    <ul>3. Ungsung Classifier</ul>
 </ul>
 
 <h3>📑Study📑</h3>
-    KWEB 2024.3 ~ 2024.6
-    GDSC 2024.9 ~ 2024.12
-    KAIROS 2024.9 ~ 2024.12
-    <strong>RISC dictionary center at KU 2024.1 ~ 2025.1</strong>
+    <ul>KWEB 2024.3 ~ 2024.6</ul>
+    <ul>GDSC 2024.9 ~ 2024.12</ul>
+    <ul>KAIROS 2024.9 ~ 2024.12</ul>
+    <ul><strong>RISC dictionary center at KU 2024.1 ~ 2025.1</strong></ul>
 <p>
     You can see more at my <a href="https://github.com/aj0hnd">GitHub</a>.
 </p>
