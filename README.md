@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
-    <img src="https://simpleicons.org/?modal=icon&q=python"/>&nbsp
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp
 </p>
 
 <h2>Project</h2>
