@@ -16,11 +16,11 @@
 </p>
 
 <h3>💻Project💻</h3>
-I'm organizing my github repository.. Coming Soon..
+I'm organizing my github repository.. Coming Soon.. <br>
 <li>
-<ul>Naver-KU dictionary Service Process</ul>
-<ul>Fairy Tale Web Service for children</ul>
-<ul>Ungsung Classifier</ul>
+    <ul>Naver-KU dictionary Service Process</ul>
+    <ul>Fairy Tale Web Service for children</ul>
+    <ul>Ungsung Classifier</ul>
 </li>
 
 <h3>📑Study📑</h3>
