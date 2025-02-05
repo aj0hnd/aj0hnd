@@ -17,11 +17,11 @@
 
 <h3>💻Project💻</h3>
 I'm organizing my github repository.. Coming Soon..
-
-
-<ul>1. Naver-KU dictionary Service Process</ul>
-<ul>2. Fairy Tale - based Dictionary Web Service for children using Gen AI, Stable Diffusion API.</ul>
-<ul>3. Ungsung Classifier</ul>
+<li>
+<ul>Naver-KU dictionary Service Process</ul>
+<ul>Fairy Tale Web Service for children</ul>
+<ul>Ungsung Classifier</ul>
+</li>
 
 <h3>📑Study📑</h3>
     <ul>KWEB 2024.3 ~ 2024.6</ul>
