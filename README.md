@@ -1,7 +1,6 @@
 <h3>Hi there! This is Ungsungkomputer! 😎😎</h3>
 <p>
-    I'm major in Computer Science at Korea University. My current interest is Vision, LLM, RL and ungsungko eating.
-    It means that I don't know exactly what I wanna do. 😂😂
+    I'm major in Computer Science at Korea University. My current interest is LLM, Recommendation System.
 </p>
 
 <h3>📖Stack📖</h3>
